@@ -79,4 +79,4 @@ Abre el archivo **`Student_Regression.ipynb`** directamente en **Google Colabora
 
   * **Autor:** Pablo Natera Bravo
   * **Diplomado:** Bedu-Santander - Conéctate a la Era Digital Data Scientist
-  * **LinkedIn:** [[Tu URL de LinkedIn](https://www.linkedin.com/in/pablo-natera-464531299)]
+  * **LinkedIn:** [[Pablo Natera](https://www.linkedin.com/in/pablo-natera-464531299)]
