@@ -1,6 +1,6 @@
-# 🎓 Predicción del Rendimiento Estudiantil mediante Regresión Lineal
+# Predicción del Rendimiento Estudiantil mediante Regresión Lineal
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
 
 Este proyecto final del Diplomado **Bedu-Santander** tiene como objetivo principal construir un modelo de **Regresión Lineal Múltiple** robusto en $\\mathbf{R}$ (ejecutado en un *Jupyter Notebook*) para predecir el **Índice de Rendimiento** de los estudiantes basándose en sus hábitos y antecedentes.
 
@@ -8,7 +8,7 @@ El modelo alcanzó un coeficiente de determinación ($\\mathbf{R^2}$) de **$0.98
 
 -----
 
-## 📊 Metodología y Resultados Clave
+## Metodología y Resultados Clave
 
 ### 1\. Conjunto de Datos
 
@@ -23,7 +23,7 @@ El modelo alcanzó un coeficiente de determinación ($\\mathbf{R^2}$) de **$0.98
 | **`Extracurricular.Activities`** | *character* | Indicador de participación en actividades extracurriculares. |
 | **`Sleep.Hours`** | *integer* | Horas de sueño promedio. |
 | **`Sample.Question.Papers.Practiced`** | *integer* | Cantidad de exámenes de muestra o guías practicadas. |
-| **Variable Objetivo:** **`Performance.Index`** (*numeric*) | Índice de rendimiento final del estudiante (la variable a predecir). |
+| **Variable Objetivo:** **`Performance.Index`** | (*numeric*) | Índice de rendimiento final del estudiante (la variable a predecir). |
 
 ### 2\. Análisis y Modelado
 
@@ -37,7 +37,7 @@ El modelo alcanzó un coeficiente de determinación ($\\mathbf{R^2}$) de **$0.98
 
 -----
 
-## 🛠️ Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 .
@@ -46,7 +46,7 @@ El modelo alcanzó un coeficiente de determinación ($\\mathbf{R^2}$) de **$0.98
 └── README.md
 ```
 
-## ⚙️ Cómo Replicar el Análisis
+## Cómo Replicar el Análisis
 
 El análisis está contenido en el *Jupyter Notebook* y utiliza $\\mathbf{R}$.
 
@@ -75,8 +75,8 @@ Abre el archivo **`Student_Regression.ipynb`** directamente en **Google Colabora
 
 -----
 
-## 🤝 Autor y Contacto
+## Autor y Contacto
 
   * **Autor:** Pablo Natera Bravo
   * **Diplomado:** Bedu-Santander - Conéctate a la Era Digital Data Scientist
-  * **LinkedIn:** [[Pablo Natera](https://www.linkedin.com/in/pablo-natera-464531299)]
+  * **LinkedIn:** [Pablo Natera](https://www.linkedin.com/in/pablo-natera-464531299)
