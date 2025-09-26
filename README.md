@@ -18,12 +18,12 @@ El modelo alcanzó un coeficiente de determinación ($\\mathbf{R^2}$) de **$0.98
 
 | Variable (Predictora) | Tipo | Descripción |
 | :--- | :--- | :--- |
-| **`Hours.Studied`** | *integer* | Horas semanales dedicadas al estudio. |
-| **`Previous.Scores`** | *integer* | Puntuación obtenida en exámenes o cursos previos. |
-| **`Extracurricular.Activities`** | *character* | Indicador de participación en actividades extracurriculares. |
-| **`Sleep.Hours`** | *integer* | Horas de sueño promedio. |
-| **`Sample.Question.Papers.Practiced`** | *integer* | Cantidad de exámenes de muestra o guías practicadas. |
-| **Variable Objetivo:** **`Performance.Index`** | (*numeric*) | Índice de rendimiento final del estudiante (la variable a predecir). |
+| **`Hours.Studied`** | *int* | Horas semanales dedicadas al estudio. |
+| **`Previous.Scores`** | *int* | Puntuación obtenida en exámenes o cursos previos. |
+| **`Extracurricular.Activities`** | *float* | Indicador de participación en actividades extracurriculares. |
+| **`Sleep.Hours`** | *int* | Horas de sueño promedio. |
+| **`Sample.Question.Papers.Practiced`** | *int* | Cantidad de exámenes de muestra o guías practicadas. |
+| **Variable Objetivo:** **`Performance.Index`** | *float* | Índice de rendimiento final del estudiante (la variable a predecir). |
 
 ### 2\. Análisis y Modelado
 
